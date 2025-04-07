@@ -450,11 +450,11 @@ touch Dockerfile init-db.sql
 
 **Descripción**:  
 Preparación del entorno de trabajo para el laboratorio
-```
+
 
 **Resultado Obtenido**:  
 ![Captura de configuración inicial](img/img20.png)
-
+```
 ---
 
 #### 2.2 Construcción de la imagen
